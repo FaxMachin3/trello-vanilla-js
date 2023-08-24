@@ -1,0 +1,13 @@
+{
+    "name": "trello",
+    "version": "1.0.0",
+    "description": "A web app to track tasks",
+    "scripts": {
+        "start": "parcel ./src/index.html",
+        "build": "parcel build ./src/index.html"
+    },
+    "devDependencies": {
+        "parcel": "^2.9.3"
+    },
+    "keywords": []
+}
