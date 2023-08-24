@@ -32,6 +32,8 @@ let listHovered = null;
  * selective rendering logic but that's an overhead.
  * Instead we can use a preexisting lib/framework in
  * the market that solves this.
+ *
+ * TODO: Add pagination/ virtualization
  */
 const render = () => {
   content.innerHTML = "";
